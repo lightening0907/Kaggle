@@ -3,3 +3,7 @@
 San\ Francisco\ Crime\ Classification/result
 San\ Francisco\ Crime\ Classification/.ipynb_checkpoints
 Digit\ Recognizer/result
+*.csv
+*.zip
+*.pkl
+
